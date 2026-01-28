@@ -30,3 +30,5 @@ Each problem includes:
 [ReverseWords.java](ReverseWords.java)
 
 [ReverseStringBuilder.java](ReverseStringBuilder.java)
+
+[ReverseWithLoop.java](ReverseWithLoop.java)
