@@ -22,5 +22,8 @@ Each problem includes:
 ---
 
 ## 📂 Repository Structure
+💻 Sorting:
 [Bubble-sort.java](Bubble-sort.java)
+
+💻 Strings:
 [ReverseWords.java](ReverseWords.java)
